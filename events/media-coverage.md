@@ -23,7 +23,7 @@ Public coverage of SoterCare community events and milestones — the evidence tr
 | --- | --- | --- | --- |
 | 2026-06-12 | VisioNEX Hackathon 1 | [LinkedIn](https://www.linkedin.com/posts/sanjulaherath_visionexhackathon-innovation-futuretech-activity-7471187222076059648-dJLC) | <img src="../photos/2026-06-12-visionex-hackathon-1/thumb-01.jpg" width="160" alt="VisioNEX Hackathon 1"> |
 | 2026-07-18 | VisioNEX Hackathon 2 | [LinkedIn](https://www.linkedin.com/posts/sanjulaherath_visionexhackathon-hackathon-innovation-ugcPost-7484248701608058880-4Uop) | <img src="../photos/2026-07-18-visionex-hackathon-2/thumb-01.jpg" width="160" alt="VisioNEX Hackathon 2"> |
-| | CodeSprint 11 — 3rd Place | [CodeSprint](https://www.linkedin.com/company/codesprintlk/) *(post link to be added)* | |
+| 2026 | CodeSprint 11 — 3rd Place | [CodeSprint](https://www.linkedin.com/company/codesprintlk/) *(post link to be added)* | <img src="../photos/2026-06-01-codesprint-11/thumb-01.jpg" width="160" alt="CodeSprint 11"> |
 
 ## 💡 Innovation & Entrepreneurship
 

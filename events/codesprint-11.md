@@ -36,7 +36,11 @@ Team SoterCare participated as competitors.
 
 ## Gallery
 
-_Photos to be added. If you have images from CodeSprint 11, contribute them to `photos/` — see [Contributing](../CONTRIBUTING.md)._
+<p>
+<a href="https://www.linkedin.com/company/codesprintlk/"><img src="../photos/2026-06-01-codesprint-11/thumb-01.jpg" width="40%" alt="Team SoterCare at CodeSprint 11, IIT School of Computing"></a>
+</p>
+
+Full-resolution photos: [`photos/2026-06-01-codesprint-11/`](../photos/2026-06-01-codesprint-11/)
 
 ## Links
 

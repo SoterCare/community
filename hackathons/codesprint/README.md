@@ -2,6 +2,10 @@
 
 SoterCare's participation in CodeSprint.
 
+<p>
+<a href="../../events/codesprint-11.md"><img src="../../photos/2026-06-01-codesprint-11/thumb-01.jpg" width="300" alt="Team SoterCare at CodeSprint 11"></a>
+</p>
+
 ## Results
 
 | Event | Result | Page |

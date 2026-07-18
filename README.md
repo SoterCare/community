@@ -157,9 +157,10 @@ From [VisioNEX](hackathons/visionex/) to [CodeSprint](hackathons/codesprint/) to
 <a href="https://www.linkedin.com/posts/sanjulaherath_opensourcefirst-gssoc2026-opensource-activity-7462100045396488192-ZYhj"><img src="photos/2026-05-18-gssoc-2026/thumb-02.jpg" width="24%" alt="GirlScript Summer of Code 2026"></a>
 <a href="https://www.linkedin.com/posts/sanjulaherath_solanaecosystem-web3revolution-solana-ugcPost-7278687216892067840--UNg"><img src="photos/2024-12-28-solana-web3-event/thumb-01.jpg" width="24%" alt="Solana Community Event"></a>
 <a href="https://www.linkedin.com/posts/sanjulaherath_solanaecosystem-web3revolution-solana-ugcPost-7278687216892067840--UNg"><img src="photos/2024-12-28-solana-web3-event/thumb-02.jpg" width="24%" alt="Solana Community Event"></a>
+<a href="events/codesprint-11.md"><img src="photos/2026-06-01-codesprint-11/thumb-01.jpg" width="24%" alt="CodeSprint 11 — 3rd Place"></a>
 </p>
 
-<sub>U.S. Delegation Visit · Hult Prize IIT · NIA Innovation Voucher · Nexus Spring of Code (×2) · GirlScript Summer of Code (×2) · Solana Community Event (×2)</sub>
+<sub>U.S. Delegation Visit · Hult Prize IIT · NIA Innovation Voucher · Nexus Spring of Code (×2) · GirlScript Summer of Code (×2) · Solana Community Event (×2) · CodeSprint 11</sub>
 
 ## 📊 Community Impact
 
