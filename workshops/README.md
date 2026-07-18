@@ -14,8 +14,8 @@ One folder per workshop, named `YYYY-MM-DD-topic/`, containing:
 
 <table>
   <tr>
-    <td align="center"><a href="https://www.linkedin.com/posts/sanjulaherath_algorand-web3-blockchain-ugcPost-7445090561876795393-UDmt"><img src="../photos/2026-04-01-algorand-workshop/linkedin-cover.jpg" width="300" alt="Algorand Foundation Workshop"></a><br><sub><b>Algorand Foundation Workshop</b> — 50+ students trained</sub></td>
-    <td align="center"><a href="https://www.linkedin.com/posts/sanjulaherath_solanaecosystem-web3revolution-solana-ugcPost-7278687216892067840--UNg"><img src="../photos/2024-12-28-solana-web3-event/linkedin-cover.jpg" width="300" alt="Solana Community Event"></a><br><sub><b>Solana Community Event</b></sub></td>
+    <td align="center"><a href="https://www.linkedin.com/posts/sanjulaherath_algorand-web3-blockchain-ugcPost-7445090561876795393-UDmt"><img src="../photos/2026-04-01-algorand-workshop/photo-01.jpg" width="300" alt="Algorand Foundation Workshop"></a><br><sub><b>Algorand Foundation Workshop</b> — 50+ students trained</sub></td>
+    <td align="center"><a href="https://www.linkedin.com/posts/sanjulaherath_solanaecosystem-web3revolution-solana-ugcPost-7278687216892067840--UNg"><img src="../photos/2024-12-28-solana-web3-event/photo-01.jpg" width="300" alt="Solana Community Event"></a><br><sub><b>Solana Community Event</b></sub></td>
   </tr>
 </table>
 

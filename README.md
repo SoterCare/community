@@ -111,14 +111,14 @@ From VisioNEX to CodeSprint, we hack and we host — summaries live in [`hackath
 
 <table>
   <tr>
-    <td align="center"><a href="https://www.linkedin.com/posts/sotercare_usdelegationvisit-universityofoklahoma-sdgp-activity-7421608313454292993-W-ZG"><img src="photos/2026-01-26-us-delegation-visit/linkedin-cover.jpg" width="260" alt="U.S. Delegation Visit"></a><br><sub><b>U.S. Delegation Visit</b><br>University of Oklahoma</sub></td>
-    <td align="center"><a href="https://www.linkedin.com/posts/sanjulaherath_algorand-web3-blockchain-ugcPost-7445090561876795393-UDmt"><img src="photos/2026-04-01-algorand-workshop/linkedin-cover.jpg" width="260" alt="Algorand Foundation Workshop"></a><br><sub><b>Algorand Foundation Workshop</b><br>50+ students trained</sub></td>
-    <td align="center"><a href="https://www.linkedin.com/posts/sanjulaherath_visionexhackathon-hackathon-innovation-ugcPost-7484248701608058880-4Uop"><img src="photos/2026-07-18-visionex-hackathon-2/linkedin-cover.jpg" width="260" alt="VisioNEX Hackathon"></a><br><sub><b>VisioNEX Hackathon</b><br>200+ school students</sub></td>
+    <td align="center"><a href="https://www.linkedin.com/posts/sotercare_usdelegationvisit-universityofoklahoma-sdgp-activity-7421608313454292993-W-ZG"><img src="photos/2026-01-26-us-delegation-visit/photo-01.jpg" width="260" alt="U.S. Delegation Visit"></a><br><sub><b>U.S. Delegation Visit</b><br>University of Oklahoma</sub></td>
+    <td align="center"><a href="https://www.linkedin.com/posts/sanjulaherath_algorand-web3-blockchain-ugcPost-7445090561876795393-UDmt"><img src="photos/2026-04-01-algorand-workshop/photo-01.jpg" width="260" alt="Algorand Foundation Workshop"></a><br><sub><b>Algorand Foundation Workshop</b><br>50+ students trained</sub></td>
+    <td align="center"><a href="https://www.linkedin.com/posts/sanjulaherath_visionexhackathon-hackathon-innovation-ugcPost-7484248701608058880-4Uop"><img src="photos/2026-07-18-visionex-hackathon-2/photo-01.jpg" width="260" alt="VisioNEX Hackathon 2"></a><br><sub><b>VisioNEX Hackathon 2</b><br>200+ school students</sub></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://www.linkedin.com/posts/sotercare_sotercare-cuttingedge2026-projexpo-ugcPost-7477986575285612545-iGpa"><img src="photos/2026-07-01-cuttingedge-2026-projexpo/linkedin-cover.jpg" width="260" alt="CuttingEdge 2026 PROJEXPO"></a><br><sub><b>CuttingEdge 2026 PROJEXPO</b><br>2nd Runner-Up</sub></td>
-    <td align="center"><a href="https://www.linkedin.com/posts/sotercare_teamsotercare-hultprize-hultprizeiit-activity-7430916330922618880-7A0L"><img src="photos/2026-02-21-hult-prize-iit/linkedin-cover.jpg" width="260" alt="Hult Prize IIT"></a><br><sub><b>Hult Prize IIT</b><br>Finalist</sub></td>
-    <td align="center"><a href="https://www.linkedin.com/posts/sotercare_teamsotercare-nia-innovationvoucherprogramme-activity-7476913645289918464-1NY4"><img src="photos/2026-06-28-nia-innovation-voucher/linkedin-cover.jpg" width="260" alt="NIA Innovation Voucher Programme"></a><br><sub><b>NIA Innovation Voucher</b><br>Programme 2026</sub></td>
+    <td align="center"><a href="https://www.linkedin.com/posts/sotercare_sotercare-cuttingedge2026-projexpo-ugcPost-7477986575285612545-iGpa"><img src="photos/2026-07-01-cuttingedge-2026-projexpo/photo-01.jpg" width="260" alt="CuttingEdge 2026 PROJEXPO"></a><br><sub><b>CuttingEdge 2026 PROJEXPO</b><br>2nd Runner-Up</sub></td>
+    <td align="center"><a href="https://www.linkedin.com/posts/sotercare_teamsotercare-hultprize-hultprizeiit-activity-7430916330922618880-7A0L"><img src="photos/2026-02-21-hult-prize-iit/photo-01.jpg" width="260" alt="Hult Prize IIT"></a><br><sub><b>Hult Prize IIT</b><br>Finalist</sub></td>
+    <td align="center"><a href="https://www.linkedin.com/posts/sotercare_teamsotercare-nia-innovationvoucherprogramme-activity-7476913645289918464-1NY4"><img src="photos/2026-06-28-nia-innovation-voucher/photo-01.jpg" width="260" alt="NIA Innovation Voucher Programme"></a><br><sub><b>NIA Innovation Voucher</b><br>Programme 2026</sub></td>
   </tr>
 </table>
 
