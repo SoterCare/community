@@ -109,20 +109,59 @@ From VisioNEX to CodeSprint, we hack and we host — summaries live in [`hackath
 
 ## 📸 Community in Action
 
-<table>
-  <tr>
-    <td align="center"><a href="https://www.linkedin.com/posts/sotercare_usdelegationvisit-universityofoklahoma-sdgp-activity-7421608313454292993-W-ZG"><img src="photos/2026-01-26-us-delegation-visit/photo-01.jpg" width="260" alt="U.S. Delegation Visit"></a><br><sub><b>U.S. Delegation Visit</b><br>University of Oklahoma</sub></td>
-    <td align="center"><a href="https://www.linkedin.com/posts/sanjulaherath_algorand-web3-blockchain-ugcPost-7445090561876795393-UDmt"><img src="photos/2026-04-01-algorand-workshop/photo-01.jpg" width="260" alt="Algorand Foundation Workshop"></a><br><sub><b>Algorand Foundation Workshop</b><br>50+ students trained</sub></td>
-    <td align="center"><a href="https://www.linkedin.com/posts/sanjulaherath_visionexhackathon-hackathon-innovation-ugcPost-7484248701608058880-4Uop"><img src="photos/2026-07-18-visionex-hackathon-2/photo-01.jpg" width="260" alt="VisioNEX Hackathon 2"></a><br><sub><b>VisioNEX Hackathon 2</b><br>200+ school students</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://www.linkedin.com/posts/sotercare_sotercare-cuttingedge2026-projexpo-ugcPost-7477986575285612545-iGpa"><img src="photos/2026-07-01-cuttingedge-2026-projexpo/photo-01.jpg" width="260" alt="CuttingEdge 2026 PROJEXPO"></a><br><sub><b>CuttingEdge 2026 PROJEXPO</b><br>2nd Runner-Up</sub></td>
-    <td align="center"><a href="https://www.linkedin.com/posts/sotercare_teamsotercare-hultprize-hultprizeiit-activity-7430916330922618880-7A0L"><img src="photos/2026-02-21-hult-prize-iit/photo-01.jpg" width="260" alt="Hult Prize IIT"></a><br><sub><b>Hult Prize IIT</b><br>Finalist</sub></td>
-    <td align="center"><a href="https://www.linkedin.com/posts/sotercare_teamsotercare-nia-innovationvoucherprogramme-activity-7476913645289918464-1NY4"><img src="photos/2026-06-28-nia-innovation-voucher/photo-01.jpg" width="260" alt="NIA Innovation Voucher Programme"></a><br><sub><b>NIA Innovation Voucher</b><br>Programme 2026</sub></td>
-  </tr>
-</table>
+<sub>Every photo links to the original post — the full dated index lives in [Media & Coverage](events/media-coverage.md).</sub>
 
-<sub>📰 Every event with links and photos: [Media & Coverage](events/media-coverage.md)</sub>
+### 🚀 VisioNEX Hackathon 1 · June 2026
+
+<p>
+<a href="https://www.linkedin.com/posts/sanjulaherath_visionexhackathon-innovation-futuretech-activity-7471187222076059648-dJLC"><img src="photos/2026-06-12-visionex-hackathon-1/photo-01.jpg" width="32%" alt="VisioNEX Hackathon 1 — full auditorium of school students"></a>
+<a href="https://www.linkedin.com/posts/sanjulaherath_visionexhackathon-innovation-futuretech-activity-7471187222076059648-dJLC"><img src="photos/2026-06-12-visionex-hackathon-1/photo-02.jpg" width="32%" alt="VisioNEX Hackathon 1 — mentoring session"></a>
+<a href="https://www.linkedin.com/posts/sanjulaherath_visionexhackathon-innovation-futuretech-activity-7471187222076059648-dJLC"><img src="photos/2026-06-12-visionex-hackathon-1/photo-03.jpg" width="32%" alt="VisioNEX Hackathon 1"></a>
+<a href="https://www.linkedin.com/posts/sanjulaherath_visionexhackathon-innovation-futuretech-activity-7471187222076059648-dJLC"><img src="photos/2026-06-12-visionex-hackathon-1/photo-04.jpg" width="32%" alt="VisioNEX Hackathon 1"></a>
+<a href="https://www.linkedin.com/posts/sanjulaherath_visionexhackathon-innovation-futuretech-activity-7471187222076059648-dJLC"><img src="photos/2026-06-12-visionex-hackathon-1/photo-05.jpg" width="32%" alt="VisioNEX Hackathon 1 — group photo"></a>
+</p>
+
+### 🚀 VisioNEX Hackathon 2 — 200+ school students engaged · July 2026
+
+<p>
+<a href="https://www.linkedin.com/posts/sanjulaherath_visionexhackathon-hackathon-innovation-ugcPost-7484248701608058880-4Uop"><img src="photos/2026-07-18-visionex-hackathon-2/photo-01.jpg" width="32%" alt="VisioNEX Hackathon 2"></a>
+<a href="https://www.linkedin.com/posts/sanjulaherath_visionexhackathon-hackathon-innovation-ugcPost-7484248701608058880-4Uop"><img src="photos/2026-07-18-visionex-hackathon-2/photo-02.jpg" width="32%" alt="VisioNEX Hackathon 2"></a>
+<a href="https://www.linkedin.com/posts/sanjulaherath_visionexhackathon-hackathon-innovation-ugcPost-7484248701608058880-4Uop"><img src="photos/2026-07-18-visionex-hackathon-2/photo-03.jpg" width="32%" alt="VisioNEX Hackathon 2"></a>
+</p>
+
+### ⛓️ Algorand Foundation Workshop — 50+ students trained · April 2026
+
+<p>
+<a href="https://www.linkedin.com/posts/sanjulaherath_algorand-web3-blockchain-ugcPost-7445090561876795393-UDmt"><img src="photos/2026-04-01-algorand-workshop/photo-01.jpg" width="24%" alt="Algorand Foundation Workshop"></a>
+<a href="https://www.linkedin.com/posts/sanjulaherath_algorand-web3-blockchain-ugcPost-7445090561876795393-UDmt"><img src="photos/2026-04-01-algorand-workshop/photo-02.jpg" width="24%" alt="Algorand Foundation Workshop"></a>
+<a href="https://www.linkedin.com/posts/sanjulaherath_algorand-web3-blockchain-ugcPost-7445090561876795393-UDmt"><img src="photos/2026-04-01-algorand-workshop/photo-03.jpg" width="24%" alt="Algorand Foundation Workshop"></a>
+<a href="https://www.linkedin.com/posts/sanjulaherath_algorand-web3-blockchain-ugcPost-7445090561876795393-UDmt"><img src="photos/2026-04-01-algorand-workshop/photo-04.jpg" width="24%" alt="Algorand Foundation Workshop"></a>
+</p>
+
+### 🏆 CuttingEdge 2026 PROJEXPO — 2nd Runner-Up, Best SDGP Project · July 2026
+
+<p>
+<a href="https://www.linkedin.com/posts/sotercare_sotercare-cuttingedge2026-projexpo-ugcPost-7477986575285612545-iGpa"><img src="photos/2026-07-01-cuttingedge-2026-projexpo/photo-01.jpg" width="24%" alt="CuttingEdge 2026 PROJEXPO"></a>
+<a href="https://www.linkedin.com/posts/sotercare_sotercare-cuttingedge2026-projexpo-ugcPost-7477986575285612545-iGpa"><img src="photos/2026-07-01-cuttingedge-2026-projexpo/photo-02.jpg" width="24%" alt="CuttingEdge 2026 PROJEXPO"></a>
+<a href="https://www.linkedin.com/posts/sotercare_sotercare-cuttingedge2026-projexpo-ugcPost-7477986575285612545-iGpa"><img src="photos/2026-07-01-cuttingedge-2026-projexpo/photo-03.jpg" width="24%" alt="CuttingEdge 2026 PROJEXPO"></a>
+<a href="https://www.linkedin.com/posts/sotercare_sotercare-cuttingedge2026-projexpo-ugcPost-7477986575285612545-iGpa"><img src="photos/2026-07-01-cuttingedge-2026-projexpo/photo-04.jpg" width="24%" alt="CuttingEdge 2026 PROJEXPO"></a>
+</p>
+
+### 💫 More Moments
+
+<p>
+<a href="https://www.linkedin.com/posts/sotercare_usdelegationvisit-universityofoklahoma-sdgp-activity-7421608313454292993-W-ZG"><img src="photos/2026-01-26-us-delegation-visit/photo-01.jpg" width="24%" alt="U.S. Delegation Visit — University of Oklahoma"></a>
+<a href="https://www.linkedin.com/posts/sotercare_teamsotercare-hultprize-hultprizeiit-activity-7430916330922618880-7A0L"><img src="photos/2026-02-21-hult-prize-iit/photo-01.jpg" width="24%" alt="Hult Prize IIT"></a>
+<a href="https://www.linkedin.com/posts/sotercare_teamsotercare-nia-innovationvoucherprogramme-activity-7476913645289918464-1NY4"><img src="photos/2026-06-28-nia-innovation-voucher/photo-01.jpg" width="24%" alt="NIA Innovation Voucher Programme 2026"></a>
+<a href="https://www.linkedin.com/posts/nso-code_we-are-soo-happy-to-announce-our-super-amazing-activity-7457802612369809408-7Dww"><img src="photos/2026-05-06-nexus-spring-of-code-collab/photo-01.jpg" width="24%" alt="Nexus Spring of Code × SoterCare"></a>
+<a href="https://www.linkedin.com/posts/harsha-nandi-65a05b212_end-of-the-season-1-of-nexus-spring-of-code-activity-7476561588850900994-Zi-e"><img src="photos/2026-06-27-nexus-spring-of-code-season1/photo-01.jpg" width="24%" alt="Nexus Spring of Code Season 1"></a>
+<a href="https://www.linkedin.com/posts/sanjulaherath_opensourcefirst-gssoc2026-opensource-activity-7462100045396488192-ZYhj"><img src="photos/2026-05-18-gssoc-2026/photo-01.jpg" width="24%" alt="GirlScript Summer of Code 2026"></a>
+<a href="https://www.linkedin.com/posts/sanjulaherath_opensourcefirst-gssoc2026-opensource-activity-7462100045396488192-ZYhj"><img src="photos/2026-05-18-gssoc-2026/photo-02.jpg" width="24%" alt="GirlScript Summer of Code 2026"></a>
+<a href="https://www.linkedin.com/posts/sanjulaherath_solanaecosystem-web3revolution-solana-ugcPost-7278687216892067840--UNg"><img src="photos/2024-12-28-solana-web3-event/photo-01.jpg" width="24%" alt="Solana Community Event"></a>
+<a href="https://www.linkedin.com/posts/sanjulaherath_solanaecosystem-web3revolution-solana-ugcPost-7278687216892067840--UNg"><img src="photos/2024-12-28-solana-web3-event/photo-02.jpg" width="24%" alt="Solana Community Event"></a>
+</p>
+
+<sub>U.S. Delegation Visit · Hult Prize IIT · NIA Innovation Voucher · Nexus Spring of Code (×2) · GirlScript Summer of Code (×2) · Solana Community Event (×2)</sub>
 
 ## 📊 Community Impact
 
