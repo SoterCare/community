@@ -1,12 +1,18 @@
 # 📚 Resources
 
-Curated learning resources for the SoterCare community — tutorials, courses, tools, and reading lists across our focus areas.
+Curated learning resources for the SoterCare community, grouped by topic. Every resource is chosen for *why it's worth your time* — no link dumps, free-first.
 
-## What lives here
+| Topic | Page |
+| --- | --- |
+| 🌱 Start here (beginners) | [beginner-resources.md](beginner-resources.md) |
+| 🔧 Git & GitHub | [git-github.md](git-github.md) |
+| ❤️ Open Source | [opensource.md](opensource.md) |
+| ☁️ AWS & Cloud | [aws.md](aws.md) |
+| ⛓️ Blockchain / Web3 | [blockchain.md](blockchain.md) |
+| 🤖 AI & Machine Learning | [ai.md](ai.md) |
 
-- [`beginner-resources.md`](beginner-resources.md) — start here if you're new
-- Topic files as the collection grows: `ai.md`, `cloud.md`, `iot.md`, `web3.md`, `healthcare-tech.md`
+Looking for even more, across careers, internships, and opportunities? See the dedicated **[awesome-student-resources](https://github.com/SoterCare/awesome-student-resources)** repository.
 
 ## Contributing a resource
 
-Add it to the right file with a one-line description of *why* it's worth someone's time — no link dumps. Free resources are preferred. See [Contributing Guidelines](../CONTRIBUTING.md).
+Add it to the right topic page with a one-line reason it's worth someone's time. Free resources preferred. See [Contributing Guidelines](../CONTRIBUTING.md).

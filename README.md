@@ -60,28 +60,26 @@ This repository is our community's public home. Our product code lives in the or
 
 ## 🌍 Events
 
-Our flagship community events, past and upcoming — reports live in [`events/`](events/):
+Every event has its own page in [`events/`](events/) — overview, impact, gallery, and team:
 
-- Algorand Foundation Workshop
-- Solana Web3 Event
-- VisioNEX Hackathon
-- U.S. Delegation Visit
-- Hult Prize IIT
-- CuttingEdge PROJEXPO
+- [Algorand Foundation Workshop](events/algorand-workshop.md) — 50+ students trained
+- [Solana Community Event](events/solana-workshop.md)
+- [VisioNEX Hackathon 1](events/visionex-hackathon-1.md) & [2](events/visionex-hackathon-2.md) — 500+ students, 40+ schools
+- [U.S. Delegation Visit](events/us-delegation.md) — University of Oklahoma
+- [Hult Prize IIT](events/hult-prize.md) — Finalist
+- [CuttingEdge 2026 PROJEXPO IIT](events/cuttingedge-2026.md) — Best SDGP Community & Project
 
-Want to propose an event? Open an [Event Proposal](https://github.com/SoterCare/community/issues/new/choose).
+See the full [events index](events/) and the [Impact Dashboard](impact/). Want to propose one? Open an [Event Proposal](https://github.com/SoterCare/community/issues/new/choose).
 
 ## 🎓 Workshops
 
-We run hands-on sessions across our whole stack — materials live in [`workshops/`](workshops/) and [`slides/`](slides/):
+We run hands-on sessions across our whole stack — grouped by track in [`workshops/`](workshops/), with slides in [`slides/`](slides/):
 
-- AI Workshops
-- Cloud Computing Workshops
-- Blockchain Workshops (Algorand & Solana)
-- Developer Bootcamps
-- Technical Talks
+- [⛓️ Blockchain](workshops/blockchain/) — Algorand & Solana
+- [☁️ Cloud](workshops/cloud/) · [🤖 AI](workshops/ai/) · [🌐 Web3](workshops/web3/)
+- Developer Bootcamps · Technical Talks
 
-New to organizing? Start with our [workshop organizer guide](guides/organize-a-workshop.md).
+New to organizing? Start with our [workshop playbook](guides/organize-a-workshop.md).
 
 ## ❤️ Open Source Programs
 
@@ -93,7 +91,7 @@ Open source is at the heart of how we learn. We participate in and run open-sour
 
 ## 🚀 Hackathons
 
-From VisioNEX to CodeSprint, we hack and we host — summaries live in [`hackathons/`](hackathons/). If you want to run one, our [hackathon organizer guide](guides/organize-a-hackathon.md) has the full playbook.
+From [VisioNEX](hackathons/visionex/) to [CodeSprint](hackathons/codesprint/) to the [Hult Prize](hackathons/hult-prize/), we hack and we host — full write-ups in [`hackathons/`](hackathons/). If you want to run one, our [hackathon playbook](guides/organize-a-hackathon.md) has everything.
 
 ## 🌱 Ways to Get Involved
 
@@ -174,15 +172,19 @@ From VisioNEX to CodeSprint, we hack and we host — summaries live in [`hackath
 - 👨‍💻 50+ students trained through the Algorand Blockchain Workshop
 - 🎓 500+ school students from 40+ schools engaged through VisioNEX Hackathon
 
+📊 Full numbers, timeline, and achievements: **[Impact Dashboard](impact/)**
+
 ## 🤝 Community Partners
 
-- Nexus Spring of Code (NSoC)
-- Algorand Foundation
-- Solana Community
-- GirlScript Summer of Code
-- IEEE
-- AWS Cloud Club
-- Informatics Institute of Technology
+Each partnership is documented in [`partners/`](partners/):
+
+- [Nexus Spring of Code (NSoC)](partners/nsoc.md)
+- [Algorand Foundation](partners/algorand.md)
+- [Solana Community](events/solana-workshop.md)
+- [GirlScript Summer of Code](partners/gssoc.md)
+- [IEEE](partners/ieee.md)
+- [AWS Cloud Club](partners/aws.md)
+- [Informatics Institute of Technology (IIT)](partners/iit.md)
 
 ## 👥 Maintainers
 
@@ -195,7 +197,10 @@ Want to help maintain this repository? See our [Governance](GOVERNANCE.md) and [
 ## 🔗 Useful Links
 
 - 🌐 [Website](https://sotercare.com) · 💼 [LinkedIn](https://www.linkedin.com/company/sotercare) · 📸 [Instagram](https://www.instagram.com/sotercare_/) · ▶️ [YouTube](https://www.youtube.com/@SoterCare)
-- 📖 [Community FAQ](FAQ.md) · 🧭 [Roadmap](ROADMAP.md) · 🏛️ [Governance](GOVERNANCE.md)
+- 📘 [Community Handbook](guides/community-handbook.md) · 📖 [FAQ](FAQ.md) · 🧭 [Roadmap](ROADMAP.md) · 🏛️ [Governance](GOVERNANCE.md)
+- 📊 [Impact Dashboard](impact/) · 🌍 [Events](events/) · 🤝 [Partners](partners/) · 📚 [Resources](resources/)
+- 🌱 [First Contribution](guides/first-contribution.md) · 🐙 [GitHub for Beginners](guides/github-for-beginners.md) · 🆘 [Support](SUPPORT.md) · 🔒 [Security](SECURITY.md)
+- ⭐ [awesome-student-resources](https://github.com/SoterCare/awesome-student-resources) — our curated learning hub
 - 🐛 [Report an issue](https://github.com/SoterCare/community/issues/new/choose) · 💬 [Discussions](https://github.com/SoterCare/community/discussions)
 
 ---

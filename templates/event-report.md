@@ -39,6 +39,6 @@
 
 ## Links
 
-- Slides: [`slides/`](../../slides/)
-- Photos: [`photos/`](../../photos/)
+- Slides: `slides/` (link your deck once uploaded)
+- Photos: `photos/YYYY-MM-DD-event-slug/`
 - Social posts:

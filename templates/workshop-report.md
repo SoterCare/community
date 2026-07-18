@@ -19,8 +19,8 @@
 
 ## Materials
 
-- Slides: [link into `slides/`](../../slides/)
-- Code / exercises: [link into this workshop's `code/` folder]
+- Slides: `slides/` (link your deck once uploaded)
+- Code / exercises: this workshop's `code/` folder
 - Recording (if any):
 - Prerequisites given to attendees:
 

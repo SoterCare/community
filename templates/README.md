@@ -2,7 +2,7 @@
 
 Ready-to-copy templates that keep our community's documentation consistent.
 
-## Reports
+## Reports & profiles
 
 | Template | Use after |
 | --- | --- |
@@ -11,6 +11,8 @@ Ready-to-copy templates that keep our community's documentation consistent.
 | [Hackathon Summary](hackathon-summary.md) | A hackathon (hosted or attended) |
 | [Meetup Notes](meetup-notes.md) | Informal meetups and discussions |
 | [Speaker Information](speaker-information.md) | Collecting speaker details before an event |
+| [Partner Announcement](partner-announcement.md) | Announcing a new community partnership |
+| [Volunteer Onboarding](volunteer-onboarding.md) | Bringing a new volunteer on board |
 
 ## Checklists
 
