@@ -8,6 +8,8 @@ One folder or file per event, named `YYYY-MM-DD-event-name/` (or `.md` for a sin
 
 ## Past events
 
+See [Media & Coverage](media-coverage.md) for the full dated list with links and photos:
+
 - Algorand Foundation Workshop
 - Solana Web3 Event
 - VisioNEX Hackathon *(see [`hackathons/`](../hackathons/))*
