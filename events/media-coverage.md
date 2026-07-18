@@ -31,7 +31,7 @@ Public coverage of SoterCare community events and milestones — the evidence tr
 | --- | --- | --- | --- |
 | 2026-01-26 | U.S. Delegation Visit — University of Oklahoma | [LinkedIn](https://www.linkedin.com/posts/sotercare_usdelegationvisit-universityofoklahoma-sdgp-activity-7421608313454292993-W-ZG) | <img src="../photos/2026-01-26-us-delegation-visit/thumb-01.jpg" width="160" alt="U.S. Delegation Visit"> |
 | 2026-02-21 | Hult Prize IIT Qualifier | [LinkedIn](https://www.linkedin.com/posts/sotercare_teamsotercare-hultprize-hultprizeiit-activity-7430916330922618880-7A0L) | <img src="../photos/2026-02-21-hult-prize-iit/thumb-01.jpg" width="160" alt="Hult Prize IIT"> |
-| 2026-07-01 | CuttingEdge 2026 PROJEXPO — 2nd Runner-Up, Best SDGP Project | [LinkedIn](https://www.linkedin.com/posts/sotercare_sotercare-cuttingedge2026-projexpo-ugcPost-7477986575285612545-iGpa) | <img src="../photos/2026-07-01-cuttingedge-2026-projexpo/thumb-01.jpg" width="160" alt="CuttingEdge 2026 PROJEXPO"> |
+| 2026-07-01 | CuttingEdge 2026 PROJEXPO IIT — Best SDGP Community & Project | [LinkedIn](https://www.linkedin.com/posts/sotercare_sotercare-cuttingedge2026-projexpo-ugcPost-7477986575285612545-iGpa) | <img src="../photos/2026-07-01-cuttingedge-2026-projexpo/thumb-01.jpg" width="160" alt="CuttingEdge 2026 PROJEXPO IIT"> |
 | 2026-06-28 | NIA Innovation Voucher Programme 2026 | [LinkedIn](https://www.linkedin.com/posts/sotercare_teamsotercare-nia-innovationvoucherprogramme-activity-7476913645289918464-1NY4) | <img src="../photos/2026-06-28-nia-innovation-voucher/thumb-01.jpg" width="160" alt="NIA Innovation Voucher Programme"> |
 
 ## 👥 Community Memberships

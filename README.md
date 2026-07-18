@@ -138,7 +138,7 @@ From VisioNEX to CodeSprint, we hack and we host — summaries live in [`hackath
 <a href="https://www.linkedin.com/posts/sanjulaherath_algorand-web3-blockchain-ugcPost-7445090561876795393-UDmt"><img src="photos/2026-04-01-algorand-workshop/thumb-04.jpg" width="24%" alt="Algorand Foundation Workshop"></a>
 </p>
 
-### 🏆 CuttingEdge 2026 PROJEXPO — 2nd Runner-Up, Best SDGP Project · July 2026
+### 🏆 CuttingEdge 2026 PROJEXPO IIT — Best SDGP Community & Project · July 2026
 
 <p>
 <a href="https://www.linkedin.com/posts/sotercare_sotercare-cuttingedge2026-projexpo-ugcPost-7477986575285612545-iGpa"><img src="photos/2026-07-01-cuttingedge-2026-projexpo/thumb-01.jpg" width="24%" alt="CuttingEdge 2026 PROJEXPO"></a>
