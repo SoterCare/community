@@ -5,7 +5,7 @@ SoterCare has run workshops on both Algorand and Solana. These resources get you
 ## Algorand
 
 - [Algorand Developer Portal](https://developer.algorand.org/) — official docs, tutorials, and the AlgoKit tooling from our [workshop partner](../partners/algorand.md)
-- [AlgoKit](https://developer.algorand.org/docs/get-started/algokit/) — the toolkit we used in the [Algorand Foundation Workshop](../events/algorand-workshop.md)
+- [AlgoKit](https://dev.algorand.co/algokit/algokit-intro/) — the toolkit we used in the [Algorand Foundation Workshop](../events/algorand-workshop.md)
 
 ## Solana
 

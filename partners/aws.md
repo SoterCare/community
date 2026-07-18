@@ -16,5 +16,5 @@ SoterCare engages with the **AWS Cloud Club** community to support students lear
 
 ## Links
 
-- 🌐 [AWS Cloud Clubs](https://aws.amazon.com/developer/community/cloud-clubs/)
+- 🌐 [AWS Cloud Clubs](https://aws.amazon.com/developer/community/students/)
 - 🌐 [AWS Educate](https://aws.amazon.com/education/awseducate/)
