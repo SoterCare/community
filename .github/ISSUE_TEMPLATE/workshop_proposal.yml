@@ -1,0 +1,42 @@
+name: 🎓 Workshop Proposal
+description: Propose a workshop, bootcamp session, or technical talk you want to run or attend
+title: "[Workshop]: "
+labels: ["workshop", "proposal"]
+body:
+  - type: markdown
+    attributes:
+      value: Read [How to Organize a Workshop](https://github.com/SoterCare/community/blob/main/guides/organize-a-workshop.md) — first-time instructors are actively supported!
+  - type: input
+    attributes:
+      label: Topic
+      placeholder: "e.g. Intro to Solana smart contracts"
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: What will attendees be able to do afterwards?
+      description: The takeaway skill — be concrete
+    validations:
+      required: true
+  - type: dropdown
+    attributes:
+      label: Audience level
+      options:
+        - Beginner (no prior knowledge)
+        - Intermediate
+        - Advanced
+    validations:
+      required: true
+  - type: dropdown
+    attributes:
+      label: Who teaches it?
+      options:
+        - Me — I want to run this workshop
+        - I have a speaker in mind
+        - Looking for an instructor (I'm requesting this topic)
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Estimated duration
+      placeholder: "e.g. 2 hours hands-on"

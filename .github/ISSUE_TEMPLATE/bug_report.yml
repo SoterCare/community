@@ -1,0 +1,26 @@
+name: 🐛 Bug Report
+description: Something in this repository is broken — a dead link, wrong information, rendering issue
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for catching this! Small fixes are great first contributions — feel free to claim the fix yourself.
+  - type: input
+    attributes:
+      label: Where is the problem?
+      description: File path or page URL
+      placeholder: guides/first-contribution.md
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: What's wrong?
+      description: What did you find, and what should it be instead?
+    validations:
+      required: true
+  - type: checkboxes
+    attributes:
+      label: Would you like to fix it?
+      options:
+        - label: I'd like to work on this myself

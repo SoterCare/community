@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 💬 Community Discussions
+    url: https://github.com/SoterCare/community/discussions
+    about: Questions, ideas, and general conversation — start here if it's not a concrete task
+  - name: 🌐 SoterCare Website
+    url: https://sotercare.com
+    about: Learn more about SoterCare

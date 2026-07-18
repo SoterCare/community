@@ -1,0 +1,27 @@
+name: 📝 Documentation
+description: Improve, expand, or add documentation — guides, reports, resources, translations
+title: "[Docs]: "
+labels: ["documentation"]
+body:
+  - type: dropdown
+    attributes:
+      label: Type of documentation work
+      options:
+        - Improve an existing guide or doc
+        - Add a missing event/workshop/hackathon report
+        - Add a learning resource
+        - New guide or document
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: What needs to be documented?
+      description: What's missing or unclear, and who would it help?
+    validations:
+      required: true
+  - type: checkboxes
+    attributes:
+      label: Would you like to write it?
+      options:
+        - label: I'd like to work on this myself

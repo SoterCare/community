@@ -1,0 +1,27 @@
+name: 💡 Community Suggestion
+description: Ideas for the community — programs, partnerships, improvements, mentor/volunteer applications
+title: "[Suggestion]: "
+labels: ["community"]
+body:
+  - type: dropdown
+    attributes:
+      label: What kind of suggestion?
+      options:
+        - New program or initiative
+        - Partnership idea
+        - Community process improvement
+        - Mentor application
+        - Volunteer application
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: The suggestion
+      description: What's the idea, what problem does it solve, and what would success look like?
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: How could you help make it happen?
+      description: Optional — but ideas with owners go further

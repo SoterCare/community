@@ -1,0 +1,47 @@
+name: 🌍 Event Proposal
+description: Propose a community event — meetup, talk, innovation challenge, pitch event, hackathon
+title: "[Event]: "
+labels: ["event", "proposal"]
+body:
+  - type: markdown
+    attributes:
+      value: Before proposing, skim the [Organizer Checklist](https://github.com/SoterCare/community/blob/main/templates/organizer-checklist.md) — you don't need every answer yet, just the shape.
+  - type: input
+    attributes:
+      label: Event name
+    validations:
+      required: true
+  - type: dropdown
+    attributes:
+      label: Event type
+      options:
+        - Meetup
+        - Technical talk
+        - Hackathon
+        - Innovation challenge
+        - Startup pitch event
+        - Partner event
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: What's the idea?
+      description: Who is it for, what happens, and why should SoterCare run it?
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Rough timing
+      placeholder: "e.g. late September, or 'flexible'"
+  - type: textarea
+    attributes:
+      label: What do you need?
+      description: Venue? Budget? Speakers? Volunteers? Partner contacts?
+  - type: checkboxes
+    attributes:
+      label: Your role
+      options:
+        - label: I'm willing to lead the organizing (with support)
+        - label: I can help organize but not lead
+        - label: I'm just suggesting the idea
