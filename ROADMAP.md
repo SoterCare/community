@@ -29,5 +29,5 @@ Where the SoterCare community is heading. This is a living document — propose 
 
 - [x] Organization profile and community health files (`SoterCare/.github`)
 - [x] Algorand Blockchain Workshop — 50+ students trained
-- [x] VisioNEX Hackathon — 200+ school students engaged
+- [x] VisioNEX Hackathon — 500+ school students from 40+ schools engaged
 - [x] Community partnerships: NSoC, GirlScript Summer of Code, AWS Cloud Club, IEEE

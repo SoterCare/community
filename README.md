@@ -121,7 +121,7 @@ From VisioNEX to CodeSprint, we hack and we host — summaries live in [`hackath
 <a href="https://www.linkedin.com/posts/sanjulaherath_visionexhackathon-innovation-futuretech-activity-7471187222076059648-dJLC"><img src="photos/2026-06-12-visionex-hackathon-1/thumb-05.jpg" width="32%" alt="VisioNEX Hackathon 1 — group photo"></a>
 </p>
 
-### 🚀 VisioNEX Hackathon 2 — 200+ school students engaged · July 2026
+### 🚀 VisioNEX Hackathon 2 — 500+ students from 40+ schools · July 2026
 
 <p>
 <a href="https://www.linkedin.com/posts/sanjulaherath_visionexhackathon-hackathon-innovation-ugcPost-7484248701608058880-4Uop"><img src="photos/2026-07-18-visionex-hackathon-2/thumb-01.jpg" width="32%" alt="VisioNEX Hackathon 2"></a>
@@ -172,7 +172,7 @@ From VisioNEX to CodeSprint, we hack and we host — summaries live in [`hackath
 - 🤝 Community Partner — Nexus Spring of Code
 - 🌱 Ambassador & Contributor — GirlScript Summer of Code 2026
 - 👨‍💻 50+ students trained through the Algorand Blockchain Workshop
-- 🎓 200+ school students engaged through VisioNEX Hackathon
+- 🎓 500+ school students from 40+ schools engaged through VisioNEX Hackathon
 
 ## 🤝 Community Partners
 

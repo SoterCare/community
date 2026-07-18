@@ -1,6 +1,6 @@
 # 🚀 How to Organize a Hackathon
 
-Hackathons are our highest-effort, highest-impact events — VisioNEX reached 200+ school students. This guide captures how we run them. A hackathon needs a real organizing team and 6–8 weeks of lead time; don't attempt one solo.
+Hackathons are our highest-effort, highest-impact events — VisioNEX reached 500+ school students from 40+ schools. This guide captures how we run them. A hackathon needs a real organizing team and 6–8 weeks of lead time; don't attempt one solo.
 
 ## 1. Define the shape (8+ weeks out)
 
